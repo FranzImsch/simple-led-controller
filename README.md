@@ -19,5 +19,6 @@ Only very few advanced components have been used for this project (actually it's
 |J4                  | Screw Terminal (3*3P)   |         |
 |Q1-Q4               | IRLZ44N                 ||TO-220  |
 |R1-R4, R6           | 10K Resistor            |0603     |
-|R5, R7, R8, R17     | 1K Resistor             |0603     |
+|R5, R17             | 1K Resistor             |0603     |
+|R7, R8              | I2C Pullups             |0603     |
 |U$1                 | LM2596-MODULE           |         |
