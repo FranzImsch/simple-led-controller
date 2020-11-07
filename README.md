@@ -1,3 +1,6 @@
+```!!! Note: RX and TX are interchanged. Has not been fixed yet in the files. !!!```
+
+
 # Simplest LED Controller
 
 ![rendering](rendering.png)
